@@ -1,0 +1,10 @@
+random_location:
+  world: world
+  max_attempts: 27
+  range_x: 2000
+  range_z: 2000
+  avoid_blocks:
+    - LAVA
+    - WATER
+    - FIRE
+    - CAVE_AIR

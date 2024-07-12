@@ -1,0 +1,6 @@
+name: TesterPvP
+version: '${project.version}'
+main: san_wulf.gg.testerpvp.TesterPvP
+api-version: '1.16'
+commands:
+  pvp:

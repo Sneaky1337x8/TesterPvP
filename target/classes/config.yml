@@ -1,0 +1,8 @@
+max_distance_squared: 100
+
+messages:
+  win_death_broadcast: "&#fb0000▶ &fО Господи! &#fb0000{opponent} &fразорвал в клочья &#fb0000{player} ! &fКровавая битва окончалась победой &6{opponent}"
+  win_leave_broadcast: "&#fb0000▶ &fИгрок &#fb0000{player} &fструсил перед &#fb0000{opponent} &fи покинул битву."
+  win_move_broadcast: "&#fb0000▶ &fИгрок &#fb0000{player} &fструсил перед &#fb0000{opponent} &fи покинул битву."
+  no_armor: "&fВступить в поединок можно только в настоящих &fдоспехах! (нужна &#15fbfbалмазная &fили &6незеритовая &fброня!)"
+  the_player_has_joined_the_queue_broadcast: "&#fb0000 ▶ &fИгрок &#fb0000{player} &fищет себе достойного оппонента, кто же осмелится дать ему отпор? &#fb0000(/pvp list)"

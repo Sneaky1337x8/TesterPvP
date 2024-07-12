@@ -1,0 +1,17 @@
+san_wulf\gg\testerpvp\guis\FindPvPGui.class
+san_wulf\gg\testerpvp\events\PvPEventListener.class
+san_wulf\gg\testerpvp\config\LocationConfigManager.class
+san_wulf\gg\testerpvp\events\InventoryClickListener$1.class
+san_wulf\gg\testerpvp\pvp\PvP.class
+san_wulf\gg\testerpvp\utils\Colorize.class
+san_wulf\gg\testerpvp\player\PlayerStats.class
+san_wulf\gg\testerpvp\TesterPvP.class
+san_wulf\gg\testerpvp\db\db.class
+san_wulf\gg\testerpvp\location\LocationManager.class
+san_wulf\gg\testerpvp\commands\Comp.class
+san_wulf\gg\testerpvp\commands\PvPCommand.class
+san_wulf\gg\testerpvp\config\ConfigManager.class
+san_wulf\gg\testerpvp\events\InventoryClickListener.class
+san_wulf\gg\testerpvp\pvp\State.class
+san_wulf\gg\testerpvp\pvp\PvPQueue.class
+san_wulf\gg\testerpvp\guis\PlayerListGui.class

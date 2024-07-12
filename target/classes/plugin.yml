@@ -1,0 +1,6 @@
+name: TesterPvP
+version: '1.0'
+main: san_wulf.gg.testerpvp.TesterPvP
+api-version: '1.16'
+commands:
+  pvp:
